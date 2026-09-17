@@ -1,0 +1,13 @@
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Never commit local secrets or private evaluation material
+.env
+.env.*
+!.env.example
+private/
+recordings/
+customer-data/
